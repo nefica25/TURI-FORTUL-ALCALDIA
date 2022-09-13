@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "718387189895",
+    "firebase_url": "https://api-project-718387189895.firebaseio.com",
+    "project_id": "api-project-718387189895",
+    "storage_bucket": "api-project-718387189895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718387189895:android:9d2a0bb6e557c760698022",
+        "android_client_info": {
+          "package_name": "desoft.municipio.turifortul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718387189895-04k6roneijmrmvcjum33up1h4v11rte4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjIb6-iWPZkbwpZy2lgIvai21f5AeCOU"
+        },
+        {
+          "current_key": "AIzaSyA38qgtaVNgeYk0VWM49DN6rJl_iRbvYmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718387189895-04k6roneijmrmvcjum33up1h4v11rte4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718387189895:android:0a768bdaa8d2f21b",
+        "android_client_info": {
+          "package_name": "desoft.municipio.turifortul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718387189895-esjt50c4mp9at6p3bdmbbqi027ifhrop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "desoft.municipio.turifortul",
+            "certificate_hash": "92e07bf962b52b6d7e1bb21164f077d435ce7a28"
+          }
+        },
+        {
+          "client_id": "718387189895-04k6roneijmrmvcjum33up1h4v11rte4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjIb6-iWPZkbwpZy2lgIvai21f5AeCOU"
+        },
+        {
+          "current_key": "AIzaSyA38qgtaVNgeYk0VWM49DN6rJl_iRbvYmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718387189895-04k6roneijmrmvcjum33up1h4v11rte4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
